@@ -325,8 +325,13 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
 .contact {
   padding: 10%;
+}
+
+.contact p {
+  margin-top: 8%;
 }
 
 .contact h1 {
@@ -336,11 +341,7 @@ li {
   line-height: 28px;
   text-align: center;
   color: #ff6b00;
-}
-
-.contact h1 {
   font-size: 40px;
-  font-weight: 700;
   margin-top: 30px;
 }
 
